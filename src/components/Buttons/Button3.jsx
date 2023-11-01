@@ -10,8 +10,7 @@ const Button3 = () => {
             gap-2
             px-10 
             py-4
-            border 
-            border-neutral-300
+            border             
             bg-neutral-900 
             text-gray-50 
             rounded-lg
@@ -44,7 +43,8 @@ const Button3 = () => {
             hover:after:animate-pulse
             relative
             text-left           
-
+           
+           
             
             ">
 
