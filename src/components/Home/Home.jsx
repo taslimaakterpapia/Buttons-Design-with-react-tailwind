@@ -4,7 +4,7 @@ import Button3 from "../Buttons/Button3";
 
 const Home = () => {
     return (
-        <div>            
+        <div className="bg-black py-20">            
             <h1 className="text-center text-5xl mt-10 font-bold ">Button Design </h1>
 
             <div className="flex gap-16 ">
