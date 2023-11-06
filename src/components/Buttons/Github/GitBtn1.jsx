@@ -3,7 +3,7 @@
 const GitBtn1 = () => {
     return (
         <div>
-
+        <h1 className="pb-5 text-white underline underline-offset-4"> HTML + Tailwind </h1>
         <button className="group flex 
         justify-center 
         items-center 

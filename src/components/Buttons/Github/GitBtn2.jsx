@@ -2,7 +2,7 @@
 const GitBtn2 = () => {
     return (
         <div>
-
+<h1 className="pb-5 text-white underline underline-offset-4 pl-3"> HTML + Tailwind </h1>
         <button className="flex
         py-4 px-10 rounded-full gap-2 justify-center items-center font-bold
 
