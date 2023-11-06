@@ -1,6 +1,7 @@
 
 
 
+import CloseBtn1 from "../Buttons/Close/CloseBtn1";
 import GitBtn1 from "../Buttons/Github/GitBtn1";
 import GitBtn2 from "../Buttons/Github/GitBtn2";
 import GitBtn3 from "../Buttons/Github/GitBtn3";
@@ -41,7 +42,7 @@ const Home = () => {
             <h3 className="text-2xl text-white font-semibold pt-20 pb-10 underline">Close / Cut Buttons</h3>
             <div className="flex gap-16  items-center pb-20">
 
-                
+                <CloseBtn1></CloseBtn1>
 
             </div>
 
